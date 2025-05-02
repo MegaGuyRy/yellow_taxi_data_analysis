@@ -3,8 +3,12 @@
 ## Table of Contents
 - [Overview](#overview)
 - [Data Sources](#Data-Sources)
-- [Overview](#overview)
-- [Overview](#overview)
+- [Tools](#Tools)
+- [Data Cleaning](#Data-Cleaning)
+- [Exploratiry Data Analysis](#Exploratiry-Data-Analysis)
+- [Data Analysis](#Data-Analysis)
+- [Results](#Results)
+- [Recomendations](#Recomendations)
 
 ### Overview
 This data analyst project aims to ...
