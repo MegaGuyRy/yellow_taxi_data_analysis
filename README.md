@@ -8,8 +8,8 @@ The Primary data set used in this project are ...
 
 ### Tools
 
--Excel
--SQL: data cleaning and analysis
--PowerBI: Create dashboard and clean reports
+- Excel
+- SQL: data cleaning and analysis
+- PowerBI: Create dashboard and clean reports
 
 ### Data Cleaning
