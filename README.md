@@ -2,6 +2,9 @@
 
 ## Table of Contents
 - [Overview](#overview)
+- [Data Sources](#Data-Sources)
+- [Overview](#overview)
+- [Overview](#overview)
 
 ### Overview
 This data analyst project aims to ...
