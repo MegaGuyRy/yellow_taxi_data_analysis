@@ -138,7 +138,7 @@ if model is None:
 ```
 
 ### Results
-The predictive model I created reached an mean squared error rate of $1.50 when predicitng the average fair price. Below shows a series of test used to validate where circles are the actual average fair and x's are the predicted value.
+The predictive model reached a Mean Absolute Error (MAE) of $1.50 when predicting average fare. Below shows a series of test used to validate where circles are the actual average fair and x's are the predicted value.
 ![preditions_vs_actual_data](https://github.com/user-attachments/assets/139f0980-1588-4173-93e1-b5c8f05f5f8e)
 
 Below is a graph of data represening the use of this function for all 168 combinations of weekdays and hours
@@ -153,7 +153,7 @@ Based on the analysis I recommened the following actions:
 
 ### Limitations
 1. The model does not account for (weather conditions, surcharges, fair distance)
-2. The dataset had to be significantly reduced due to the size therfore this entire project is based of data from December specifically which could have scewed the data.
+2. The dataset had to be significantly reduced due to the size therfore this entire project is based of data from December 2023 specifically which could have scewed the data.
 
 ### References
 Dataset: https://www.nyc.gov/site/tlc/about/tlc-trip-record-data.page
